@@ -1,0 +1,10 @@
+2024-02-29 21:16:01: I am log job!!!
+2024-02-29 21:16:01: Running Jobs...
+2024-02-29 21:16:01: Running log_job.sh
+2024-02-29 21:16:01: Job Runner Completed Successfully
+2024-02-29 21:16:01: Shutting Down via shutdown.sh
+2024-02-29 22:06:01: I am log job!!!
+2024-02-29 22:06:01: Running Jobs...
+2024-02-29 22:06:01: Running log_job.sh
+2024-02-29 22:06:01: Job Runner Completed Successfully
+2024-02-29 22:06:01: Shutting Down via shutdown.sh
