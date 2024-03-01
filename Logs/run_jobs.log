@@ -20,3 +20,7 @@
 2024-02-29 23:14:32: Running log_job.sh
 2024-02-29 23:14:32: Job Runner Completed Successfully
 2024-02-29 23:14:32: Shutting Down via shutdown.sh
+2024-02-29 23:16:54: Running Jobs...
+2024-02-29 23:16:54: Running log_job.sh
+2024-02-29 23:16:54: Job Runner Completed Successfully
+2024-02-29 23:16:54: Shutting Down via shutdown.sh
